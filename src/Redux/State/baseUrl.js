@@ -1,3 +1,3 @@
-const baseUrl = 'https://blooming-meadow-49781.herokuapp.com/api/v1';
+const baseUrl = 'https://rails-cars-app.herokuapp.com/api/v1';
 
 export default baseUrl;
